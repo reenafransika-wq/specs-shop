@@ -41,6 +41,8 @@ jobs:
 
       - name: Build production bundle
         run: npm run build
+        env:
+	BASE_URL: /specs-shop/
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
