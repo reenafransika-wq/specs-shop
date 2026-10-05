@@ -1,0 +1,8 @@
+{
+  "name": "Auren Optical Atelier",
+  "description": "Architectural eyewear crafted from Japanese cellulose acetate and aerospace titanium. Interactive virtual try-on, bespoke lens studio, and curated optical collections.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
